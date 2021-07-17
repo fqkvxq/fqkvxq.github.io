@@ -13,9 +13,11 @@ body {
 .wrapper h1 {
   text-align: center;
   margin: 15px;
+  font-weight: 800;
 }
 
 .wrapper p {
   margin-bottom: 15px;
+  font-weight: 800;
 }
 /*# sourceMappingURL=styles.css.map */
