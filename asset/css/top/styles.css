@@ -14,9 +14,6 @@ body {
 }
 
 .wrapper {
-  position: relative;
-  z-index: -99;
-  top: 71px;
   padding: 15px;
   margin: 0 auto;
   max-width: 375px;
