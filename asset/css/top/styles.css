@@ -1,0 +1,16 @@
+.wrapper {
+  padding: 15px;
+  border: 1px solid #000;
+  margin: 0 auto;
+  max-width: 520px;
+}
+
+.wrapper h1 {
+  text-align: center;
+  margin: 15px;
+}
+
+.wrapper p {
+  margin-bottom: 15px;
+}
+/*# sourceMappingURL=styles.css.map */
